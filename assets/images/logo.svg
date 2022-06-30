@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.8b -->
+<!-- CreationDate: 2022-06-28 17:37:57 -->
+<!-- Magnification: 1.05 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="200pt" height="172pt"
+	viewBox="1788 4038 3174 2724">
+<g fill="none">
+<!-- Line -->
+<rect x="3600" y="4050" width="1350" height="900" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2700" y="4950" width="1350" height="900" fill="#00ff00"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="1800" y="5850" width="1350" height="900" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polygon points=" 2250,4950 2700,4500 2250,4050 1800,4500" fill="#ffff00"
+	stroke="#000000" stroke-width="8px"/>
+</g>
+</svg>

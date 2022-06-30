@@ -4,7 +4,7 @@ layout: home
 title: Welcome to STEPS
 list_title: Home
 ---
-
+![STEPS social preview image](/assets/images/social_preview.png)
 ### SYNOPSIS
 STEPS is the acronym for **S**tatically **T**yped **E**ducational **P**rogramming **S**ystem.
 STEPS is still work in progress (**WIP**), there is no fully functional implementation yet.
