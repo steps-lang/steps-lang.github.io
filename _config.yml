@@ -1,1 +1,36 @@
-theme: jekyll-theme-tactile
+title: STEPS organization size
+description: The main page of the STEPS project
+author: "Thomas Reiter"
+
+theme: minima
+
+base_url: https://steps-lang.github.io/
+
+# Minima social links
+github_username: tom65536
+rss: rss
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
+minima:
+  date_format: "%Y-%m-%d"
+
+# Minima: custom header links
+header_pages:
+  - _pages/frontpage.md
+  - _pages/about.md
+  - _pages/archive.md
+
+include:
+    - _pages
+
+exclude: 
+    - .gitignore
+    - docker-compose.yml
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - CONTRIBUTING.md
+    - CODE_OF_CONDUCT.md
