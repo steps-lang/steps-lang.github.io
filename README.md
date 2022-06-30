@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to STEPS
 
-You can use the [editor on GitHub](https://github.com/steps-lang/steps-lang.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### SYNOPSIS
+STEPS is the acronym for **S**tatically **T**yped **E**ducational **P**rogramming **S**ystem. STEPS is still work in progress (**WIP**), there is no fully functional implementation yet.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+STEPS covers some ideas of providing a language which is simple enough to be used in teaching a beginners course in programming aimed at students
+in secondary or higher education while being powerful enough to cover topics of more advanced and applied programming courses, such as computational
+physics, algebra, numerics, etc.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/steps-lang/steps-lang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### What STEPS is not
+- STEPS is not aimed at primary education. The requirements for primary schools are quite different from secondary and higher education.
+- STEPS tries to cover a wide range of applications but most people would not call it a general-purpose language.
+  Currently there are no plans to provide a foreign function interface (FFI) or any other kind of interoperability.
+  Furthermore, I have no experience how the language features and the performance scale when it comes to very large software projects.
